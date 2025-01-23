@@ -233,7 +233,7 @@ fieldset {
   align-items: center;
 }
 
-.search-form__checkbox:checked + 
+.search-form__checkbox:checked+
 .search-form__pseudo-checkbox::after {
   display: block;
   width: 15px;
