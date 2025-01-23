@@ -301,10 +301,6 @@ fieldset {
   margin-top: 1px;
 }
 
-.preloader-template {
-  position: absolute;
-}
-
 .search-form__label-text:hover {
   text-decoration: underline;
 }
