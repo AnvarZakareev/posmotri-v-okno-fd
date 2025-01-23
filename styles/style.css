@@ -54,8 +54,7 @@ ol {
 
 .content {
   display: grid;
-  grid-template-areas:
-    "result content__details";
+  grid-template-areas: "result content__details";
   grid-template-columns: 711px 399px;
   width: 1140px;
   gap: 30px;
